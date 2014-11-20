@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: a.aux
+I couldn't open database file blabla.bib
+---line 5 of file a.aux
+ : \bibdata{blabla
+ :                }
+I'm skipping whatever remains of this command
+The style file: alpha.bst
+I found no database files---while reading file a.aux
+Warning--I didn't find a database entry for "!!!"
+Warning--I didn't find a database entry for "blabla"
+Warning--I didn't find a database entry for "scheissegal"
+(There were 2 error messages)
